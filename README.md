@@ -1,6 +1,7 @@
 # HFMRS: HuggingFace Model Recommendation System
 
-## Usage
+## About and Usage
+This repository provides the codebase in the building of a HFMRS that suggests similar/relevant HuggingFace models based on searched model.
 
 ### Model weight download
 Download the gnn model weight into models/ folder using the link: https://1drv.ms/u/s!AorgoKQdm-kAgYHBLoNgKNFoTNnK2B8?e=8CWD9E
