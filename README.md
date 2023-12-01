@@ -1,4 +1,4 @@
-# HFMRS: Hugging Face Model Repository Similarity
+# HFMRS: HuggingFace Model Recommendation System
 
 ## Usage
 
